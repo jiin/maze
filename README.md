@@ -15,7 +15,7 @@ maze.pl allows you to generate labyrinth for say 'NO' to the daily boredom.
 
 ## Dependencies
 
-Term::ANSIColor ~ ![http://search.cpan.org/~rra/Term-ANSIColor-3.02/ANSIColor.pm](http://search.cpan.org/~rra/Term-ANSIColor-3.02/ANSIColor.pm)
+Term::ANSIColor ~ [http://search.cpan.org/~rra/Term-ANSIColor-3.02/ANSIColor.pm](http://search.cpan.org/~rra/Term-ANSIColor-3.02/ANSIColor.pm)
 
 ## License and copyright
 
